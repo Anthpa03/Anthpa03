@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Operating Systems, Organization of Programming Languages, and Statistics**
 
-- 📫 How to reach me **ap3203@mynsu.nova.edu**
+- 📫 How to reach me: **ap3203@mynsu.nova.edu**
 
-- 📄 Know about my experiences [https://resume.io/r/UyPfP8EbG](https://resume.io/r/UyPfP8EbG)
+- 📄 Know about my experiences: [View Resume](https://1drv.ms/w/s!AotfT66-vRps4CsohY9ihrYcrps1?e=ErHpxg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
