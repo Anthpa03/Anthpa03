@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **ap3203@mynsu.nova.edu**
 
-- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1GF3Feg0TkAkyt76Xn66S8bqq0QU1bf2d/view?usp=sharing)
+- 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1DxKNSevNp4HlC29VWSxoYqGLlbyvl156/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
