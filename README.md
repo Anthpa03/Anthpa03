@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Emergency-Review-Scraper-and-Analysis](https://github.com/brandjtc/Emergency-Review-Scraper-and-Analysis#emergency-review-scraper-and-analysis)
 
-- 🌱 I’m currently learning **Operating Systems, Organization of Programming Languages, and Statistics**
+- 🌱 I’m currently learning **Mobile Computing, Design & Analysis Algorithms, Object Oriented Design, and Calculus III**
 
 - 📫 How to reach me: **ap3203@mynsu.nova.edu**
 
