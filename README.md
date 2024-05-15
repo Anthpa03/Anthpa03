@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anthony Parra</h1>
 <h3 align="center">I'm a driven and ambitious Computer Science major who finds excitement in learning about the various concepts in this field.</h3>
 
-- 🌱 I’m currently learning **Mobile Computing, Design & Analysis Algorithms, Object Oriented Design, and Calculus III**
+- 🌱 I’m currently learning **Web Programming & Design, Computer Security, and Introduction to Data Science**
 
 - 📫 How to reach me: **ap3203@mynsu.nova.edu** or **anthonyparra003@gmail.com**
 
