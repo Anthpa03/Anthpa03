@@ -1,9 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anthony Parra</h1>
 <h3 align="center">I'm a driven and ambitious Computer Science major who finds excitement in learning about the various concepts in this field.</h3>
 
-- 🌱 I’m currently learning **Web Services & Systems, Intro to Cybersecurity, and Computer Science Capstone Project**
-
-- 📫 How to reach me: **ap3203@mynsu.nova.edu** or **anthonyparra003@gmail.com**
+- 📫 How to reach me: **anthonyparra003@gmail.com**
 
 - 📄 Know about my experiences: [View Resume](https://drive.google.com/file/d/1DxKNSevNp4HlC29VWSxoYqGLlbyvl156/view?usp=drive_link)
 
